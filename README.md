@@ -6,7 +6,7 @@ I am a passionate software developer with experience in full-stack development. 
 
 ## 🔧 Technologies & Tools
 
-- Frontend: React, Next.js, JavaScript/TypeScript, HTML, CSS, Tailwind CSS
+- Frontend: React, Next.js, JavaScript/TypeScript, HTML, CSS, Tailwind CSS, Bootstrap
 - Backend: Node.js, Express.js, PostgreSQL
 - Testing: Jest, Cypress
 - Version Control: Git, GitHub
@@ -15,11 +15,11 @@ I am a passionate software developer with experience in full-stack development. 
 ## 🚀 Projects
 
 1. Portfolio Website (Personal Project)
-   - Description: My personal portfolio website showcasing my projects and skills as a software developer. Built using React, TypeScript, HTML, CSS, and Tailwind CSS.
+   - Description: My personal portfolio website showcasing my projects and skills as a software developer. Built using Next.js, TypeScript, HTML, CSS, and Tailwind CSS.
    - Website: [Syed Haque Portfolio Website](https://portfolio-syed-45.vercel.app/)
 
 2. Pastebin App (Full-Stack Application)
-   - Description: A full-stack Pastebin app that allows users to store and share code snippets securely. Built with React, CSS, and Express.js, utilising SQL for data management.
+   - Description: A full-stack Pastebin app that allows users to store and share code snippets. Built with React, CSS, and Express.js, utilising SQL for data management.
    - GitHub Repository: [Pastebin App](https://github.com/keadeish/pastebin-front-end)
 
 3. Dog-Breed Voting App (Full-Stack Application)
