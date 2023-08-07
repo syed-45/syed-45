@@ -14,19 +14,19 @@ I am a passionate software developer with experience in full-stack development. 
 
 ## 🚀 Projects
 
-1. Portfolio Website (Personal Project)
-   - Description: My personal portfolio website showcasing my projects and skills as a software developer. Built using Next.js, TypeScript, HTML, CSS, and Tailwind CSS.
-   - Website: [Syed Haque Portfolio Website](https://portfolio-syed-45.vercel.app/)
+[Portfolio Website](https://github.com/syed-45/portfolio) (Personal Project)
+   - Description: My personal portfolio website showcasing my projects and skills as a software developer. Built using Next.js, TypeScript, HTML, CSS, and Tailwind CSS.   
+   - GitHub Repository: [Portfolio Website](https://github.com/syed-45/portfolio)
 
-2. Pastebin App (Full-Stack Application)
+[Pastebin App](https://pastebin-syed-keadeish.netlify.app/) (Full-Stack Application)
    - Description: A full-stack Pastebin app that allows users to store and share code snippets. Built with React, CSS, and Express.js, utilising SQL for data management.
    - GitHub Repository: [Pastebin App](https://github.com/keadeish/pastebin-front-end)
 
-3. Dog-Breed Voting App (Full-Stack Application)
+[Dog-Breed Voting App](https://dogbreed-voting.netlify.app/) (Full-Stack Application)
    - Description: A dog-breed voting app developed using React and SCSS for the frontend, and Node.js with Express.js and PostgreSQL for the backend. Users can vote for their favorite dog breeds, and the leaderboard displays the most popular breeds.
    - GitHub Repository: [Dog-Breed Voting App](https://github.com/syed-45/c5b1-dog-breeds-front-end)
 
-4. Study Resources App (Full-Stack Application)
+[Study Resources App](https://study-resources-catalogue.netlify.app/) (Full-Stack Application)
    - Description: A full-stack study resources app created with React and TypeScript for the frontend, and PostgreSQL and Node.js with Express.js for the backend. Users can view and recommend study resources, add comments, and save their favorite resources.
    - GitHub Repository: [Study Resources App](https://github.com/syed-45/study-resource-catalog-c5c3)
 
