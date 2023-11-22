@@ -45,7 +45,7 @@ I believe in continuous learning and improvement. Currently, I am looking forwar
 
 - I'm excited about my upcoming project to create an Arabic quiz app using Next.js, Tailwind CSS, Node.js with Express, and PostgreSQL. This app will offer users the opportunity to test their knowledge of Arabic vocabulary.
 
-## 👯 Let's Connect
+## 🤝 Let's Connect
 
 You can connect with me through the following links.
 
