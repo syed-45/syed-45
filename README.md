@@ -2,11 +2,13 @@
 
 # Hello, I'm Syed! 👋
 
-I am a passionate software developer with experience in full-stack development. I love creating innovative and user-friendly applications. 
+I graduated with a BSc in Mathematics and Statistics. Within my degee course, I completed several coding modules of which I really enjoyed and did well in. This lead me to completed the technology leadership program at [Academy](https://academy.tech), where I trained in full-stack development and leadership. I successfully built a number of full-stack applications in teams using technologies including React.js, Node.js, Express.js and PostgreSQL. I also incorporated agile methodologies within these projects such as participating in retrospectives and implementing CI/CD with git and GitHub. After Academy, I am looking for full-time roles within tech to contribute my skills and experience and develop myself further. 
+
+You can find more details about my projects below ⬇️
 
 ## 🔧 Technologies & Tools
 
-- Frontend: React, Next.js, JavaScript/TypeScript, HTML, CSS, Tailwind CSS, Bootstrap
+- Frontend: React, Next.js, JavaScript, TypeScript, HTML, CSS, SCSS, Tailwind CSS, Bootstrap
 - Backend: Node.js, Express.js, PostgreSQL
 - Testing: Jest, Cypress
 - Version Control: Git, GitHub
@@ -14,19 +16,19 @@ I am a passionate software developer with experience in full-stack development. 
 
 ## 🚀 Projects
 
-[Portfolio Website](https://github.com/syed-45/portfolio) (Personal Project)
+[Portfolio Website🔗](https://portfolio-syed-45.vercel.app/) 
    - Description: My personal portfolio website showcasing my projects and skills as a software developer. Built using Next.js, TypeScript, HTML, CSS, and Tailwind CSS.   
    - GitHub Repository: [Portfolio Website](https://github.com/syed-45/portfolio)
 
-[Pastebin App](https://pastebin-syed-keadeish.netlify.app/) (Full-Stack Application)
+[Pastebin App🔗](https://pastebin-syed-keadeish.netlify.app/) 
    - Description: A full-stack Pastebin app that allows users to store and share code snippets. Built with React, CSS, and Express.js, utilising SQL for data management.
    - GitHub Repository: [Pastebin App](https://github.com/keadeish/pastebin-front-end)
 
-[Dog-Breed Voting App](https://dogbreed-voting.netlify.app/) (Full-Stack Application)
+[Dog-Breed Voting App🔗](https://dogbreed-voting.netlify.app/) 
    - Description: A dog-breed voting app developed using React and SCSS for the frontend, and Node.js with Express.js and PostgreSQL for the backend. Users can vote for their favorite dog breeds, and the leaderboard displays the most popular breeds.
    - GitHub Repository: [Dog-Breed Voting App](https://github.com/syed-45/c5b1-dog-breeds-front-end)
 
-[Study Resources App](https://study-resources-catalogue.netlify.app/) (Full-Stack Application)
+[Study Resources App🔗](https://study-resources-catalogue.netlify.app/) 
    - Description: A full-stack study resources app created with React and TypeScript for the frontend, and PostgreSQL and Node.js with Express.js for the backend. Users can view and recommend study resources, add comments, and save their favorite resources.
    - GitHub Repository: [Study Resources App](https://github.com/syed-45/study-resource-catalog-c5c3)
 
@@ -45,7 +47,7 @@ I believe in continuous learning and improvement. Currently, I am looking forwar
 
 ## 👯 Let's Connect
 
-I'm open to collaborating on exciting projects and opportunities. Let's connect and discuss ideas!
+You can connect with me through the following links.
 
-- LinkedIn: [Syed Haque LinkedIn Profile](https://linkedin.com/in/syed-haque1)
+- LinkedIn: [https://linkedin.com/in/syed-haque1](https://linkedin.com/in/syed-haque1)
 - Email: haque_45@hotmail.co.uk
