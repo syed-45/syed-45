@@ -34,7 +34,7 @@ You can find more details about my projects below ⬇️
 
 [Newcastle Muslim Centre🔗](https://www.newcastlemuslimcentre.org/prayer_times) 
    - Description: A project I worked on whilst at university involving using HTML, CSS, JavaScript and jQuery to build prayer time widgets. Implemented on a website designed and built with the WebStarts website builder.
-   - Widget Code Repositry: [NMC Code](https://github.com/syed-45/nmc_plugins_code)
+   - Widget Code Repositry: [NMC Code](https://github.com/syed-45/nmc_plugins_code/blob/main/salah%20times%20widget%20%23%23%23%23%23.html)
 
 Feel free to explore more of my projects and code samples on my portfolio website!
 
